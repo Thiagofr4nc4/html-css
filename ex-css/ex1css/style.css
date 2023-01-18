@@ -1,0 +1,60 @@
+@charset "UTF-8";   
+
+
+
+
+
+body{
+  background-image: linear-gradient( to right,#0FC2C0, #008F8C, #023535);
+
+}
+
+p{text-align: center;
+  text-indent: 10px;
+
+}
+main{
+background-color: white;
+width: 600px;
+padding: 10px;
+margin:auto;
+border-radius: 10px;
+box-shadow: 5px 5px 5px #ff0707 ;
+text-shadow: 1px 1px 1px #000000;
+text-decoration: underline rgb(255, 0, 179);
+}
+
+h2{text-align: center;}
+
+h1#principal{text-align: center;}
+
+p#paragrafo1{
+    background-color: #ff0000;
+
+}
+p#paragrafo2 {
+      background-color: green;
+
+
+
+}
+
+
+p#drama{
+      background-color: yellow;
+
+
+
+}
+
+
+.classico{
+      background-color: #000000;
+      color: rgb(255, 0, 255);
+     
+
+
+
+}
+
+h1{text-align:center;}
